@@ -6,6 +6,7 @@ Python scripts for automating web requests in EvilCrow RF and compatible with th
 - tesla_charge.py - transmits the known SubGhz signal for opening opening Tesla Charge Ports in 433.92 Mhz (frequency can be changed as well by just editing the script)
 - transmitRaw.py - transmits RAW signals (can be edited by changing the values of crow_data)
 - viewRxLogs.py - view received RF signals via the logs of EvilCrow  RF
+- jam_rfcat.py - not a related script for interacting with RAWv3.0-NewInterface.ino but when EvilCrow RF is flashed with RFQuack, this could be used for rolljam attacks. 
 
 # Video
 ![image](https://user-images.githubusercontent.com/3483615/199401128-275b43cc-fffd-4b2f-aae7-77b50a4626c6.png)
